@@ -1,0 +1,15 @@
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.csproj.AssemblyReference.cache
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.AssemblyInfoInputs.cache
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.AssemblyInfo.cs
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\bin\Debug\net6.0\Csharp-assignment_3.exe
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\bin\Debug\net6.0\Csharp-assignment_3.deps.json
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\bin\Debug\net6.0\Csharp-assignment_3.runtimeconfig.json
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\bin\Debug\net6.0\Csharp-assignment_3.dll
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\bin\Debug\net6.0\Csharp-assignment_3.pdb
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.dll
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\refint\Csharp-assignment_3.dll
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.pdb
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\Csharp-assignment_3.genruntimeconfig.cache
+C:\Users\Rhodas\source\repos\Csharp-assignment_3\Csharp-assignment_3\obj\Debug\net6.0\ref\Csharp-assignment_3.dll
